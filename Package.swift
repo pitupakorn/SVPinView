@@ -9,7 +9,8 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "SVPinView"
+            name: "SVPinView",
+            path: "Source"
         )
     ]
 )
